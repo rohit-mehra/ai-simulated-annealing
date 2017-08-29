@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-This is a simulated annealing algorithm Implementation in a Jupyter notebook and using it to solve the Traveling Salesman Problem (TSP) between US state capitals.
+This is a simulated annealing algorithm Implementation in a Jupyter notebook. Here, it is used to solve the Traveling Salesman Problem (TSP) between US state capitals. A brief consistency and temperature scheduling analysis is also done.
 
 ### Run Command
 
